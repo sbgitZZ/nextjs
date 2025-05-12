@@ -25,7 +25,7 @@
 		"clsx": "2.1.0",
 		"editorjs-html": "3.4.3",
 		"formik": "2.4.5",
-		"libphonenumber-js": "1.10.58",
+		"libphonenumber-js": "1.12.7",
 		"lodash-es": "4.17.21",
 		"lucide-react": "0.483.0",
 		"next": "14.1.3",
